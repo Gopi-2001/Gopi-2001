@@ -22,7 +22,7 @@ I'm Gopikant Kumar (As you have known by now 😜).I'm currently Pursuing my B.t
 ## 📫 How to reach me
 
 <p align='center'>
-<a href="https://twitter.com/GopikantKumar01/"><img height="30" src="?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/GopikantKumar01/"><img height="30" src="https://github.com/Gopi-2001/Gopi-2001/blob/84672db4112097bb368f8e769b4487dd3ffc85cc/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/gopikantkumar01/"><img height="30" src="?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gopikantkumar/"><img height="30" src=""></a>
 </p>
