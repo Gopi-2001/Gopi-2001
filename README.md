@@ -17,7 +17,7 @@ I'm Gopikant Kumar (As you have known by now 😜).I'm currently Pursuing my B.t
 
 ## Github Stats 📈
 
-[![Gopikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopi-2001)](https://github.com/Gopi-2001/github-readme-stats)
+![Gopikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopi-2001)
 
 ## 📫 How to reach me
 
